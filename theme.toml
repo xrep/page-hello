@@ -1,0 +1,13 @@
+name = "page-hello"
+license = "MIT"
+licenselink = ""
+version = "0.0.1"
+description = "A minimalist Hugo theme that just says Hello"
+homepage = "https://github.com/hugopagecom/page-hello"
+tags = ["minimal", "simple"]
+features = ["hello"]
+min_version = "0.41.0"
+
+[author]
+  name = "HugoPage"
+  homepage = "https://hugopage.com/"
